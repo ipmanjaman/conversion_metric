@@ -15,19 +15,22 @@ Distance   : Kilometers to Miles
 Allows user to enter the desired value in an edit text (numeric numbers only). After entering the value, the user will select the submit button and then calculation will be performed and display the result on the same edit text.
 
 **Vision Statement** :  
+
 Easy to use mobile app to convert these units under one roof.
 
 **Motivation** :  
+
 This project allow me to learn Android Studio and mobile development in general.
 
 **Risks** :  
+
 I don't have any experience with Android Studio but familiar with Java and XML, so that overcomes the risk little.
 
 **Tools** :  
+
 Android Studio, Java, XML
 
 **VCS** :  
+
 Github
-# conversion_metric
-# conversion_metric
-# conversion_metric
+
